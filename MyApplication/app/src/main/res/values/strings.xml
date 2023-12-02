@@ -1,0 +1,131 @@
+<resources>
+    <string name="app_name">My Application</string>
+
+    <string-array name="Main">
+        <item> Timetable </item>
+        <item> Subjects </item>
+        <item> Faculty </item>
+        <item> Resources </item>
+    </string-array>
+
+    <string-array name="Description">
+        <item> Description 1 </item>
+        <item> Description 2 </item>
+        <item> Description 3 </item>
+        <item> Description 4 </item>
+    </string-array>
+
+    <string-array name="Week">
+        <item> Monday </item>
+        <item> Tuesday </item>
+        <item> Wednesday </item>
+        <item> Thursday </item>
+        <item> Friday </item>
+        <item> Saturday </item>
+    </string-array>
+
+    <string-array name="Monday">
+        <item>CSET102: [P] ECE LAB</item>
+        <item>CSET106: [L] Discrete Maths</item>
+        <item>CSET105: [L] Digital Designing</item>
+        <item>Break</item>
+        <item>CSET102: [L] ECE</item>
+        <item>CSET109: [L] JAVA</item>
+    </string-array>
+
+    <string-array name="Tuesday">
+        <item>EMAT102L: [L] Linear Algebra</item>
+        <item>CSET106: [T] Discrete Math</item>
+        <item>Break</item>
+        <item>CSET105: [L] Digital Design</item>
+        <item>EPHY108L: [L] MECHANICS</item>
+        <item>CSET102: [T] ECE</item>
+        <item>CSET106: [L] Discrete Math</item>
+    </string-array>
+
+    <string-array name="Wednesday">
+        <item>CSET109: [P] JAVA</item>
+        <item>CSET109: [L] JAVA</item>
+        <item>EMAT102L: [L] Linear Algebra</item>
+        <item>Break</item>
+        <item>CSET105: [P] Digital Design</item>
+    </string-array>
+
+    <string-array name="Thursday">
+        <item>CSET105: [L] Digital Design</item>
+        <item>EPHY108L: [P] MECHANICS</item>
+        <item>Break</item>
+        <item>CSET106: [T] Discrete Math</item>
+        <item>EMAT102L: [L] Linear Algebra</item>
+        <item>CSET108: [L] Environment and\nSustainability</item>
+    </string-array>
+
+    <string-array name="Friday">
+        <item>CSET109: [P] JAVA</item>
+        <item>CSET109: [L] JAVA</item>
+        <item>Break</item>
+        <item>EPHY108L: [L] MECHANICS</item>
+        <item>CSET109: [T] JAVA</item>
+        <item>EMAT102L: [L] Linear Algebra</item>
+        <item>CSET102: [T] ECE</item>
+    </string-array>
+
+    <string-array name="Saturday">
+        <item>Self Study</item>
+        <item>Break</item>
+        <item>Self Study</item>
+    </string-array>
+
+    <string-array name="time1">
+        <item>8:30AM - 10:25AM</item>
+        <item>10:40AM - 11:30AM</item>
+        <item>11:40AM - 12:35PM</item>
+        <item>12:40PM - 1:30PM</item>
+        <item>1:30PM - 2:25PM</item>
+        <item>2:30PM - 3:25PM</item>
+    </string-array>
+
+    <string-array name="time2">
+        <item>8:30AM - 9:25AM</item>
+        <item>9:25AM - 10:25AM</item>
+        <item>12:40PM - 1:30PM</item>
+        <item>1:30AM - 2:25AM</item>
+        <item>2:30AM - 3:25PM</item>
+        <item>3:40PM - 4:30PM</item>
+        <item>24:40PM - 5:30PM</item>
+    </string-array>
+
+    <string-array name="time3">
+        <item>8:30AM - 10:25AM</item>
+        <item>10:40AM - 11:30AM</item>
+        <item>11:40AM - 12:35PM</item>
+        <item>12:40PM - 1:30PM</item>
+        <item>1:30PM - 2:25PM</item>
+        <item>2:30PM - 3:25PM</item>
+    </string-array>
+
+    <string-array name="time4">
+        <item>8:30AM - 9:25AM</item>
+        <item>10:40AM - 12:35AM</item>
+        <item>12:40PM - 1:30PM</item>
+        <item>1:30PM - 2:25PM</item>
+        <item>2:30PM - 3:25PM</item>
+        <item>3:40PM - 5:30PM</item>
+    </string-array>
+
+    <string-array name="time5">
+        <item>8:30AM - 10:25AM</item>
+        <item>11:40AM - 12:35AM</item>
+        <item>12:40PM - 1:30PM</item>
+        <item>1:30AM - 2:25AM</item>
+        <item>2:30AM - 3:25PM</item>
+        <item>3:40PM - 4:30PM</item>
+        <item>24:40PM - 5:30PM</item>
+    </string-array>
+
+    <string-array name="time6">
+        <item>8:55AM - 10:45AM</item>
+        <item>10:45AM - 11:15AM</item>
+        <item>11:15AM - 1:05PM</item>
+    </string-array>
+</resources>
